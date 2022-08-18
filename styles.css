@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+.main {
+    width: 100%;
+
+}
+.logo {
+color: rgb(226, 95, 43);
+width: 200px;
+height: 70px;
+float: left;
+}
+
+.navigation {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+    background-color:cadetblue;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62;
+    margin-top: 27px;
+    font-size: 14px;
+}
